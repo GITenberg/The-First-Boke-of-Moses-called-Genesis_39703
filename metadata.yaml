@@ -1,0 +1,32 @@
+_repo: The-First-Boke-of-Moses-called-Genesis_39703
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Tyndale, William
+    aliases:
+    - Tindall, William
+    - Tindale, William
+    - Tyndall, William
+    - Tyndal, William
+    birthdate: 1492
+    deathdate: 1536
+    gutenberg_agent_id: '5675'
+    url: http://www.gutenberg.org/2009/agents/5675
+    wikipedia: http://en.wikipedia.org/wiki/William_Tyndale
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Genesis'
+- !lcc 'BS'
+title: The First Boke of Moses called Genesis
+url: http://www.gutenberg.org/ebooks/39703
